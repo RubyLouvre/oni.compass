@@ -1,15 +1,18 @@
 {
   "name": "oni.compass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "oniui sass files",
   "main": "oniui-common.scss",
-  "files": ["oniui-common.scss","oniui-theme.scss","oniui-common.css","oniui-theme.css"],
+  "files": [
+    "oniui-common.scss",
+    "oniui-theme.scss",
+    "oniui-common.css",
+    "oniui-theme.css"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "rubylouvre",
   "license": "MIT",
-  "dependencies": {
-
-  }
+  "dependencies": {}
 }
